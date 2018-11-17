@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "server": "node ./src/server.js"
+  },
+  "dependencies": {
+    "ssh2": "^0.5.4"
+  }
+}
